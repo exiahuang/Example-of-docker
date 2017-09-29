@@ -32,3 +32,5 @@ docker-compose up
 ```
 $ docker-compose run web python manage.py syncdb
 ```
+# visit your site
+![image](./image/1.jpg)
